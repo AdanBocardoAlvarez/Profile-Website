@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: rgb(44, 44, 44);
-  color: #d1d1d1;
+  background-color: black;
+  color: #000;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -93,7 +93,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #097551;
 }
 
 .overlay-mf {
@@ -742,7 +742,7 @@ a:hover {
   border-radius: 50%;
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #535353;
+  background-color: #fff;
 }
 .profile-image{
   border-radius: 50% !important;
@@ -761,7 +761,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #4e4e4e;
+  color: #000;
 }
 .skill-mf .progress {
   background-color: #242424;
@@ -776,7 +776,7 @@ a:hover {
 }
 
 .font-white{
-  color: #c4c4c4 !important;
+  color: #000 !important;
 }
 
 /*--------------------------------------------------------------
@@ -816,7 +816,7 @@ a:hover {
   padding: 0.4rem 0;
 }
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #000;
 }
 
 /*--------------------------------------------------------------
