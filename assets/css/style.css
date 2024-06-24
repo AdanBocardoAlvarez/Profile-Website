@@ -764,14 +764,14 @@ a:hover {
   color: #000;
 }
 .skill-mf .progress {
-  background-color: #242424;
+  background-color: #c4c4c4;
   margin: 0.5rem 0 1.2rem 0;
   border-radius: 20px;
   height: 0.6rem;
 }
 .skill-mf .progress .progress-bar {
   height: 0.6rem;
-  background-color: #c4c4c4;
+  background-color: #0b85f0e2;
   border-radius: 20px;
 }
 
